@@ -17,16 +17,27 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Open the _Settings_ panel
+1. Choose "Open the Json file" (bottom left corner)
+1. Copy the content of this repository "catppuccin.json" into the opened json file:
 
-## 🙋 FAQ (optional)
+```json
+{
+    ..default layout
+    "schemes":
+    [
+        ..catppuccin layout
+        ..other layouts
+    ],
+}
+```
 
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+1. Save and exit
+1. Select the profile you want _catppuccin_ to be applied to
+1. Select "Appearance"
+1. Choose _catppuccin_ in the _theme_ drop down menu
+1. Click on "Save", done!
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+-   [Pocco81](https://github.com/Pocco81)
