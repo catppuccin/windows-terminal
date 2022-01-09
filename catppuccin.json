@@ -5,12 +5,12 @@
     "selectionBackground": "#1E1D2F",
   
     "background": "#1E1D2F",
-    "foreground": "##D9E0EE",
+    "foreground": "#D9E0EE",
 
     "black": "#6E6C7E",
     "red": "#F28FAD",
     "green": "#ABE9B3",
-    "yellow": "#FAE380"
+    "yellow": "#FAE380",
     "blue": "#96CDFB",
     "purple": "#F5C2E7",
     "cyan": "#89DCEB",
