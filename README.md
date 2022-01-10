@@ -41,3 +41,4 @@
 ## 💝 Thanks to
 
 -   [Pocco81](https://github.com/Pocco81)
+-   [LudoPinelli](https://github.com/LudoPinelli)
