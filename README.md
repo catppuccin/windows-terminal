@@ -43,6 +43,7 @@
 
 -   [Pocco81](https://github.com/Pocco81)
 -   [LudoPinelli](https://github.com/LudoPinelli)
+-   [AdalZanabria](https://github.com/AdalZanabria)
 
 &nbsp;
 
