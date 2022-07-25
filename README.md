@@ -18,30 +18,32 @@
 ## Usage
 
 1. Open the _Settings_ panel
-1. Choose "Open the Json file" (bottom left corner)
-1. Copy the content of this repository "catppuccin.json" into the opened json file:
+2. Choose "Open the Json file" (bottom left corner)
+3. Choose your _flavour_.
+4. Copy the contents of _flavour_.json into the opened json file:
 
 ```json
 {
     ..default layout
     "schemes":
     [
-        ..catppuccin layout
+        ..catppuccin flavour
         ..other layouts
     ],
 }
 ```
 
-1. Save and exit
-1. Select the profile you want _catppuccin_ to be applied to
-1. Select "Appearance"
-1. Choose _catppuccin_ in the _theme_ drop down menu
-1. Click on "Save", done!
+5. Save and exit
+6. Select the profile you want _catppuccin_ to be applied to
+7. Select "Appearance"
+8. Choose _catppuccin_ in the _theme_ drop down menu
+9. Click on "Save", done!
 
 ## 💝 Thanks to
 
 -   [Pocco81](https://github.com/Pocco81)
 -   [LudoPinelli](https://github.com/LudoPinelli)
+-   [AdalZanabria](https://github.com/AdalZanabria)
 
 &nbsp;
 
