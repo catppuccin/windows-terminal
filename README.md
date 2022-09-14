@@ -32,7 +32,7 @@
     ],
 }
 ```
-5. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTabbar_.json into the opened json file under "themes":
+5. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTheme_.json into the opened json file under "themes":
 
 ```json
 {
