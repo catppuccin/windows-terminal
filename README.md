@@ -20,7 +20,7 @@
 1. Open the _Settings_ panel
 2. Choose "Open the Json file" (bottom left corner)
 3. Choose your _flavour_.
-4. Copy the contents of _flavour_.json into the opened json file:
+4. Copy the contents of _flavour_.json into the opened json file under "schemes":
 
 ```json
 {
@@ -28,16 +28,27 @@
     "schemes":
     [
         ..catppuccin flavour
-        ..other layouts
+        ..other schemes
     ],
 }
 ```
+5. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTabbar_.json into the opened json file under "themes":
 
-5. Save and exit
-6. Select the profile you want _catppuccin_ to be applied to
-7. Select "Appearance"
-8. Choose _catppuccin_ in the _theme_ drop down menu
-9. Click on "Save", done!
+```json
+{
+    ..default layout
+    "themes":
+    [
+        ..catppuccin flavour
+        ..other themes
+    ],
+}
+```
+6. Save and exit
+7. Select the profile you want _catppuccin_ to be applied to
+8. Select "Appearance"
+9. Choose _catppuccin_ in the _theme_ drop down menu
+10. Click on "Save", done!
 
 ## 💝 Thanks to
 
