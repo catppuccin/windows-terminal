@@ -45,10 +45,12 @@
 }
 ```
 6. Save and exit
-7. Select the profile you want _catppuccin_ to be applied to
-8. Select "Appearance"
-9. Choose _catppuccin_ in the _theme_ drop down menu
-10. Click on "Save", done!
+7. Click on "Appearance" in the sidebar (has a paintbrush icon)
+8. Choose _catppuccin_ in the _theme_ drop down menu
+9. Select the profile you want _catppuccin_ to be applied to
+10. Select "Appearance"
+11. Choose _catppuccin_ in the _color scheme_ drop down menu
+12. Click on "Save", done!
 
 ## 💝 Thanks to
 
