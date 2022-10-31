@@ -1,18 +1,15 @@
 {
-    "name": "Catppuccin Machiatto",
-    "tab": 
-    {
-        "background": "#363A4FFF",
-        "showCloseButton": "always",
-        "unfocusedBackground": null
-    },
-    "tabRow": 
-    {
-        "background": "#24273AFF",
-        "unfocusedBackground": "#181926FF"
-    },
-    "window": 
-    {
-        "applicationTheme": "dark"
-    }
+  "name": "Catppuccin Machiatto",
+  "tab": {
+    "background": "#363A4FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#24273AFF",
+    "unfocusedBackground": "#181926FF"
+  },
+  "window": {
+    "applicationTheme": "dark"
+  }
 }

@@ -32,6 +32,7 @@
     ],
 }
 ```
+
 5. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTheme_.json into the opened json file under "themes":
 
 ```json
@@ -44,6 +45,7 @@
     ],
 }
 ```
+
 6. Save and exit
 7. Click on "Appearance" in the sidebar (has a paintbrush icon)
 8. Choose _catppuccin_ in the _theme_ drop down menu
@@ -54,9 +56,9 @@
 
 ## 💝 Thanks to
 
--   [Pocco81](https://github.com/Pocco81)
--   [LudoPinelli](https://github.com/LudoPinelli)
--   [AdalZanabria](https://github.com/AdalZanabria)
+- [Pocco81](https://github.com/Pocco81)
+- [LudoPinelli](https://github.com/LudoPinelli)
+- [AdalZanabria](https://github.com/AdalZanabria)
 
 &nbsp;
 
