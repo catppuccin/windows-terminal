@@ -17,10 +17,11 @@
 
 ## Usage
 
-1. Open the _Settings_ panel
-2. Choose "Open the Json file" (bottom left corner)
-3. Choose your _flavour_.
-4. Copy the contents of _flavour_.json into the opened json file under "schemes":
+1. Launch Windows Terminal
+2. Open the **Settings** panel (Ctrl + ,)
+3. Select **Open JSON file** at bottom left corner (Ctrl + Shift + ,)
+4. Choose your _flavour_ (frappe, latte, macchiato, mocha)
+5. Copy the contents of _flavour_.json (example: frappe.json) into the opened JSON file under **"schemes"**:
 
 ```json
 {
@@ -33,7 +34,7 @@
 }
 ```
 
-5. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTheme_.json into the opened json file under "themes":
+6. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTheme_.json (example: frappeTheme.json) into the opened JSON file under **"themes"**:
 
 ```json
 {
@@ -46,13 +47,11 @@
 }
 ```
 
-6. Save and exit
-7. Click on "Appearance" in the sidebar (has a paintbrush icon)
-8. Choose _catppuccin_ in the _theme_ drop down menu
-9. Select the profile you want _catppuccin_ to be applied to
-10. Select "Appearance"
-11. Choose _catppuccin_ in the _color scheme_ drop down menu
-12. Click on "Save", done!
+7. Save and exit
+8. In the **Settings** panel under Profiles, select the profile you want to apply the theme to. **Defaults** will apply theme to all profiles.
+9. Select **Appearance**
+10. Choose your _catppuccin flavor_ in the **Color scheme** drop down menu 
+11. Click on **Save**, enjoy! ✨
 
 ## 💝 Thanks to
 
