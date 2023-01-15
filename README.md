@@ -18,8 +18,8 @@
 ## Usage
 
 1. Launch Windows Terminal
-2. Open the **Settings** panel (Ctrl + ,)
-3. Select **Open JSON file** at bottom left corner (Ctrl + Shift + ,)
+2. Open the **Settings** panel (<kbd>Ctrl + ,</kbd>)
+3. Select **Open JSON file** at bottom left corner (<kbd>Ctrl + Shift + ,</kbd>)
 4. Choose your _flavour_ (frappe, latte, macchiato, mocha)
 5. Copy the contents of _flavour_.json (example: frappe.json) into the opened JSON file under **"schemes"**:
 
