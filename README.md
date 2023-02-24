@@ -34,7 +34,7 @@
 }
 ```
 
-6. (Only in Windows Terminal 1.16 Preview) Copy the contents of _flavourTheme_.json (example: frappeTheme.json) into the opened JSON file under **"themes"**:
+6. Copy the contents of _flavourTheme_.json (example: frappeTheme.json) into the opened JSON file under **"themes"**:
 
 ```json
 {
