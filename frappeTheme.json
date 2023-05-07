@@ -1,13 +1,13 @@
 {
   "name": "Catppuccin Frappe",
   "tab": {
-    "background": "#414559FF",
+    "background": "#303446FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#303446FF",
-    "unfocusedBackground": "#292C3CFF"
+    "background": "#292C3CFF",
+    "unfocusedBackground": "#232634FF"
   },
   "window": {
     "applicationTheme": "dark"
