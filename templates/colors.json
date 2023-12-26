@@ -1,0 +1,32 @@
+---
+app: Windows Terminal Colors
+author: Catppuccin Org
+---
+
+{
+  "name": "Catppuccin {{ titlecase flavor }}",
+
+  "cursorColor": "#{{ rosewater }}",
+  "selectionBackground": "#{{ surface2 }}",
+
+  "background": "#{{ base }}",
+  "foreground": "#{{ text }}",
+
+  "black": "#{{ darklight surface1 subtext1 }}",
+  "red": "#{{ red }}",
+  "green": "#{{ green }}",
+  "yellow": "#{{ yellow }}",
+  "blue": "#{{ blue }}",
+  "purple": "#{{ pink }}",
+  "cyan": "#{{ teal }}",
+  "white": "#{{ darklight subtext0 surface1 }}",
+
+  "brightBlack": "#{{ darklight surface2 subtext2 }}",
+  "brightRed": "#{{ red }}",
+  "brightGreen": "#{{ green }}",
+  "brightYellow": "#{{ yellow }}",
+  "brightBlue": "#{{ blue }}",
+  "brightPurple": "#{{ pink }}",
+  "brightCyan": "#{{ teal }}",
+  "brightWhite": "#{{ darklight subtext1 surface0 }}"
+}

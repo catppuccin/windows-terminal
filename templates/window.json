@@ -1,0 +1,19 @@
+---
+app: Windows Terminal Window
+author: Catppuccin Org
+---
+{
+  "name": "Catppuccin {{ titlecase flavor }}",
+  "tab": {
+    "background": "#{{ base }}ff",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#{{ mantle }}ff",
+    "unfocusedBackground": "#{{ crust }}ff"
+  },
+  "window": {
+    "applicationTheme": "{{ darklight "dark" "light" }}"
+  }
+}
