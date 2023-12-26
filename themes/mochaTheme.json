@@ -1,13 +1,13 @@
 {
-  "name": "Catppuccin Frappe",
+  "name": "Catppuccin Mocha",
   "tab": {
-    "background": "#303446FF",
+    "background": "#1e1e2eff",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#292C3CFF",
-    "unfocusedBackground": "#232634FF"
+    "background": "#181825ff",
+    "unfocusedBackground": "#11111bff"
   },
   "window": {
     "applicationTheme": "dark"
